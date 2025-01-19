@@ -192,6 +192,9 @@ function playSong(albumName, Song) {
 // You can also add visualizer or animations based on audio context
 
 function createTaskButtons(id) {
+
+  document.getElementById('player').scrollIntoView({ behavior: 'smooth' });
+  
     // Get the element by ID
     const element = document.getElementById(id);
 
