@@ -2,7 +2,9 @@
 
 A sleek and responsive static music streaming website built with HTML, CSS, and JavaScript. Play and browse music from a beautiful UI with lightweight performance and zero backend requirements.
 
-![screenshot](./assets/screenshot.png)
+![screenshot](./WebSite/Albums_Section.png)
+![screenshot](./WebSite/Movies_Section.png)
+![screenshot](./WebSite/Personal_Info.png)
 
 ## 🔥 Check It Out
 
